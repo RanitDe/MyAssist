@@ -36,6 +36,12 @@
 
 ## About The Project
 
+
+https://user-images.githubusercontent.com/89799310/230320498-66eb5846-6235-4252-b45d-841c0bce51d7.mov
+
+
+
+
 In this project we had to make an Assistant app with the help of OpenAI API. This app consists of an Search Bar at the bottom of the screen and returns the answer in the main view.
 
 ## Built With
