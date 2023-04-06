@@ -10,19 +10,6 @@
   <p align="center">
     An Awesome Assistant App to clear all your doubts!
     <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator">View Demo</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
-  </p>
-</p>
-
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
 
 ## Table Of Contents
 
@@ -35,14 +22,12 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-
-https://user-images.githubusercontent.com/89799310/230320498-66eb5846-6235-4252-b45d-841c0bce51d7.mov
-
-
-
-
+  
 In this project we had to make an Assistant app with the help of OpenAI API. This app consists of an Search Bar at the bottom of the screen and returns the answer in the main view.
+
+## Video Demo
+  
+https://user-images.githubusercontent.com/89799310/230320498-66eb5846-6235-4252-b45d-841c0bce51d7.mov
 
 ## Built With
 
